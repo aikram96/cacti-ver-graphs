@@ -2,7 +2,7 @@
 
 GRÁFICO DE ÁRBOLES <--- forma jerárquica de organizar los gráficos <--- se pueden combinar múltiplea árboles o ramas dentro de un solo árbol
 
-ÁRBOLES DE GRÁFRICO
+ÁRBOLES DE GRÁFRICO //
 AGREGAR //
 NOMBRE //
 CLASIFICACIÓN // 
