@@ -3,9 +3,9 @@
 GRÁFICO DE ÁRBOLES <--- forma jerárquica de organizar los gráficos <--- se pueden combinar múltiplea árboles o ramas dentro de un solo árbol
 
 ÁRBOLES DE GRÁFRICO
-AGREGAR
-NOMMRE
-CLASIFICACIÓN
+AGREGAR //
+NOMBRE //
+CLASIFICACIÓN // 
     1. ORDENACIÓN MANUAL ---> secuencia a voluntad
     2. ORDENACIÓN ALFABÉTICA ---> subárboles 1, Ab, ab
     3. ORDENACIÓN NATURAL ---> Ab1, ab2, ab5, ab10, ab30
@@ -15,8 +15,8 @@ CREAR
 ---> Aparecerá un desplegable con tres secciones
 
 ELEMENTOS DEL ÁRBOL ---> encabezado // gráfico // host
-AGREGAR
-CREAR
+AGREGAR //
+CREAR //
 
 !!!! ** !!!!
 
